@@ -1,0 +1,2073 @@
+{ 
+"Pregunta": 
+    {
+      "180" : 
+	        {
+		        "1":
+		          {
+		          "enunciado" : "Reacciona al sonido adecuadamente",
+		          "codigo" : ["A","B"],
+		          "porcentaje" : 
+		          		{
+		          		"A" : 100,
+		          		"B" : 70
+		          		},
+		          "color" : "amarillo"
+		          },
+		        "2":
+		          {
+		            "enunciado" : "Se orienta hacia la voz de la persona que le habla (gira la cabeza)",
+		            "codigo" : ["A","B"],
+		            "porcentaje" : 
+			          		{
+			          		"A" : 100,
+			          		"B" : 60
+			          		},
+		            "color" : "sn"
+		          },
+		        "3":
+		            {
+		              "enunciado" : "Se calma al escuchar la voz de su madre",
+		              "codigo" : ["A","B"],
+		              "porcentaje" : 
+			          		{
+			          		"A" : 70,
+			          		"B" : 70
+			          		},
+		              "color" : "sn" 
+		            },
+		        "4":
+		            {
+		              "enunciado" : "Sonríe cuando se le habla",
+		              "codigo" : ["B"],
+		              "porcentaje" : 
+			          		{ 
+			          		"B" : 70
+			          		},
+		              "color" : "azul" 
+		            },
+		        "5":
+		            {
+		              "enunciado" : "Observa la cara de su interlocutor",
+		              "codigo" : ["B"],
+		              "porcentaje" : 
+			          		{ 
+			          		"B" : 70
+			          		},
+		              "color" : "sn" 
+		            },
+		        "6":
+		            {
+		              "enunciado" : "Mantiene la atención cuando le hablan",
+		              "codigo" : ["B"],
+		              "porcentaje" : 
+			          		{ 
+			          		"B" : 60
+			          		},
+		              "color" : "sn" 
+		            },
+		        "7":
+		            {
+		              "enunciado" : "Comprende  la prosodia ",
+		              "codigo" : ["A","B"],
+		              "porcentaje" : 
+			          		{
+			          		"A" : 60,
+			          		"B" : 60
+			          		},
+		              "color" : "sn" 
+		            },
+		        "8":
+		            {
+		              "enunciado" : "Le gusta el contacto físico de sus padres o personas conocidas",
+		              "codigo" : ["B"],
+		              "porcentaje" : 
+			          		{ 
+			          		"B" : 80
+			          		},
+		              "color" : "azul" 
+		            },
+		        "9":
+		            {
+		              "enunciado" : "Llora para llamar la atención",
+		              "codigo" : ["B"],
+		              "porcentaje" : 
+			          		{ 
+			          			"B" : 50
+			          		},
+		              "color" : "sn" 
+		            },
+		        "10":
+		            {
+		              "enunciado" : "Emite sonidos vocálicos y/o guturales",
+		              "codigo" : ["A","B"],
+		              "porcentaje" : 
+			          		{
+				          		"A" : 30,
+				          		"B" : 30
+			          		},
+		              "color" : "sn" 
+		            },
+		        "11":
+		            {
+		              "enunciado" : "Emite sonidos silábicos",
+		              "codigo" : ["A","B"],
+		              "porcentaje" : 
+			          		{
+				          		"A" : 30,
+				          		"B" : 30
+			          		},
+		              "color" : "sn" 
+		            },
+		        "12":
+		            {
+		              "enunciado" : "Succiona adecuadamente",
+		              "codigo" : ["B"],
+		              "porcentaje" : 
+			          		{ 
+				          		"B" : 20
+			          		},
+		              "color" : "sn" 
+	            }  
+	        },
+      
+      "330" : 
+	        { 
+	          "1": 
+		          {
+		            "enunciado" : "Localiza la fuente sonora",
+		            "codigo" : ["A","B"],
+		            "porcentaje" : 
+			          		{
+			          		"A" : 100,
+			          		"B" : 80
+			          		},
+		            "color" : "amarillo"
+		          },
+	          "2": 
+		          {
+		            "enunciado" : "Reacciona adecuadamente a diferentes estímulos sonoros",
+		            "codigo" : ["A","B"],
+		            "porcentaje" : 
+		          		{
+		          		"A" : 100,
+		          		"B" : 90
+		          		},
+		            "color" : "sn"
+		          },
+	          "3": 
+		          {
+		            "enunciado" : "Deja de realizar alguna actividad al ser llamado por el nombre",
+		            "codigo" : ["A","B"],
+		            "porcentaje" : 
+			          		{
+			          		"A" : 100,
+			          		"B" : 80
+			          		},
+		            "color" : "sn"
+		          },
+	          "4": 
+		          {
+		            "enunciado" : "Responde al ser llamado por el nombre",
+		            "codigo" : ["A","B"],
+		            "porcentaje" : 
+			          		{
+			          		"A" : 100,
+			          		"B" : 80
+			          		},
+		            "color" : "sn"
+		          },
+	          "5": 
+		          {
+		            "enunciado" : "Realiza juegos sociales simples",
+		            "codigo" : ["B"],
+		            "porcentaje" : 
+			          		{ 
+			          		"B" : 80
+			          		},
+		            "color" : "azul"
+		          },
+	          "6": 
+		          {
+		            "enunciado" : "Protoconversaciones",
+		            "codigo" : ["B"],
+		            "porcentaje" : 
+			          		{ 
+			          		"B" : 80
+			          		},
+		            "color" : "sn"
+		          },
+	          "7": 
+		          {
+		            "enunciado" : "Reconoce a personas de su entorno inmediato",
+		            "codigo" : ["B"],
+		            "porcentaje" : 
+			          		{ 
+			          		"B" : 60
+			          		},
+		            "color" : "sn"
+		          },
+	          "8": 
+		          {
+		            "enunciado" : "Ejecuta órdenes simples con apoyo gestual (ven- upa- vamos)",
+		            "codigo" : ["A","B"],
+		            "porcentaje" : 
+		          		{
+		          		"A" : 30,
+		          		"B" : 60
+		          		},
+		            "color" : "sn"
+		          },
+	          "9": 
+		          {
+		            "enunciado" : "Saluda y se despide con gestos",
+		            "codigo" : ["B"],
+		            "porcentaje" : 
+			          		{ 
+			          		"B" : 60
+			          		},
+		            "color" : "sn"
+		          },
+	          "10": 
+		          {
+		            "enunciado" : "Señala personas, objetos y lugares conocidos",
+		            "codigo" : ["B"],
+		            "porcentaje" : 
+			          		{ 
+			          		"B" : 80
+			          		},
+		            "color" : "azul"
+		          },
+	          "11": 
+		          {
+		            "enunciado" : "Responde a palabras inhibitorias (no)",
+		            "codigo" : ["A","B"],
+		            "porcentaje" : 
+		          		{
+		          		"A" : 70,
+		          		"B" : 70
+		          		},
+		            "color" : "sn"
+		          },
+	          "12": 
+		          {
+		            "enunciado" : "Emite ecos de sílabas",
+		            "codigo" : ["A","B"],
+		            "porcentaje" : 
+		          		{
+		          		"A" : 40,
+		          		"B" : 40
+		          		},
+		            "color" : "sn"
+		          },
+	          "13": 
+		          {
+		            "enunciado" : "Balbuceo no reduplicado acompañado de gestos",
+		            "codigo" : ["A","B"],
+		            "porcentaje" : 
+		          		{
+		          		"A" : 40,
+		          		"B" : 60
+		          		},
+		            "color" : "sn"
+		          },
+	          "14": 
+		          {
+		            "enunciado" : "Mastica adecuadamente",
+		            "codigo" : ["B"],
+		            "porcentaje" : 
+		          		{ 
+		          		"B" : 40
+		          		},
+		            "color" : "sn"
+		          },
+	          "15": 
+		          {
+		            "enunciado" : "Deglute adecuadamente",
+		            "porcentaje" : 
+		          		{ 
+		          		"B" : 30
+		          		},
+		            "color" : "sn"
+		          },
+	          "16": 
+		          {
+		            "enunciado" : "Al ingerir los alimentos no derrama grandes cantidades de alimentos/escupe",
+		            "codigo" : ["B"],
+		            "porcentaje" : 
+		          		{ 
+		          		"B" : 50
+		          		},
+		            "color" : "azul"
+		          },
+	          "17": 
+		          {
+		            "enunciado" : "Come todo tipo de alimentos",
+		            "codigo" : ["B"],
+		            "porcentaje" : 
+		          		{ 
+		          		"B" : 80
+		          		},
+		            "color" : "azul"
+		          }
+	        },
+      
+      "730" : 
+          {
+            "1": 
+              {
+                "enunciado" : "Responde al nombre cuando se le llama",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 100,
+                	"B" : 90
+                	},
+                "color" : "sn"
+              },
+            "2": 
+              {
+                "enunciado" : "Responde adecuadamente  a sonidos ambientales",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 100,
+                	"B" : 90
+                	},
+                "color" : "amarillo"
+              },
+            "3": 
+              {
+                "enunciado" : "Sigue órdenes de 1 a 2 comandos",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 70,
+                	"B" : 80
+                	},
+                "color" : "sn"
+              },
+            "4": 
+              {
+                "enunciado" : "Reconoce algunas partes del cuerpo",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 60,
+                	"B" : 60
+                	},
+                "color" : "sn"
+              },
+            "5": 
+              {
+                "enunciado" : "Identifica objetos familiares en imágenes",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 50,
+                	"B" : 60
+                	},
+                "color" : "sn"
+              },
+            "6": 
+              {
+                "enunciado" : "Identifica adjetivos comunes ",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 50,
+                	"B" : 50
+                	},
+                "color" : "sn"
+              },
+            "7": 
+              {
+                "enunciado" : "Realiza juego simbólico",
+                "codigo" : ["B"],
+                "porcentaje" : 
+                	{ 
+                	"B" : 90
+                	},
+                "color" : "azul"
+              },
+            "8": 
+              {
+                "enunciado" : "Realiza juego paralelo",
+                "codigo" : ["B"],
+                "porcentaje" : 
+                	{ 
+                	"B" : 90
+                	},
+                "color" : "azul"
+              },
+            "9": 
+              {
+                "enunciado" : "Tiene establecidos los fundamentos de la comunicación (contacto visual y toma de turnos)",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 60,
+                	"B" : 90
+                	},
+                "color" : "sn"
+              },
+            "10": 
+              {
+                "enunciado" : "Cambia el foco de atención entre actividades",
+                "codigo" : ["B"],
+                "porcentaje" : 
+                	{ 
+                	"B" : 90
+                	},
+                "color" : "sn"
+              },
+            "11": 
+              {
+                "enunciado" : "Mantiene una prosodia adecuada",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 70,
+                	"B" : 80
+                	},
+                "color" : "sn"
+              },
+            "12": 
+              {
+                "enunciado" : "Solicita necesidades básicas con lenguaje oral y/o ayuda gestual",
+                "codigo" : ["B"],
+                "porcentaje" : 
+                	{ 
+                	"B" : 90
+                	},
+                "color" : "sn"
+              },
+            "13": 
+              {
+                "enunciado" : "Imita actividades de los padres",
+                "codigo" : ["B"],
+                "porcentaje" : 
+                	{ 
+                	"B" : 70
+                	},
+                "color" : "sn"
+              },
+            "14": 
+              {
+                "enunciado" : "Posee un vocabulario aproximado de 10 palabras (1 año de edad)",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 100,
+                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "15": 
+              {
+                "enunciado" : "Posee un vocabulario aproximado de 30 palabras (1 año 6 meses)",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 100,
+                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "16": 
+              {
+                "enunciado" : "Posee un vocabulario aproximado de 40 a 50 palabras (23 meses)",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 100,
+                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "17": 
+              {
+                "enunciado" : "Emite frases de dos elementos lingüísticos ",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+                	"A" : 100,
+                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "18": 
+              {
+                "enunciado" : "Come todo tipo de alimentos y/o texturas",
+                "codigo" : ["B"],
+                "porcentaje" : 
+                	{ 
+                	"B" : 90
+                	},
+                "color" : "azul"
+              },
+            "19": 
+              {
+                "enunciado" : "Ingiere la comida sin retenerla en la boca por largo tiempo",
+                "codigo" : ["B"],
+                "porcentaje" : 
+                	{ 
+                	"B" : 70
+                	},
+                "color" : "sn"
+              } 
+          },
+      
+      "1095": 
+          {
+            "1": 
+              {
+                "enunciado" : "Discrimina sonidos de animales, medios de transporte, del cuerpo",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100
+                	},
+                "color" : "amarillo"
+              },
+            "2": 
+              {
+                "enunciado" : "Identifica palabras",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 90
+                	},
+                "color" : "sn"
+              },
+            "3": 
+              {
+                "enunciado" : "Identifica objetos por su nombre",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 90
+                	},
+                "color" : "sn"
+              },
+            "4": 
+              {
+                "enunciado" : "Identifica objetos por su uso",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 90
+                	},
+                "color" : "sn"
+              },
+            "5": 
+              {
+                "enunciado" : "Identifica verbos en acción ",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "6": 
+              {
+                "enunciado" : "Comprende partes del cuerpo",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "7": 
+              {
+                "enunciado" : "Comprende pronombres personales y posesivos",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "8": 
+              {
+                "enunciado" : "Responde a preguntas con sí o no",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "9": 
+              {
+                "enunciado" : "Solicita ayuda",
+                "codigo" : ["B"],
+                "porcentaje" : 
+                	{ 
+	                	"B" : 90
+                	},
+                "color" : "azul"
+              },
+            "10": 
+              {
+                "enunciado" : "Llama la atención usando exclamaciones",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 70,
+	                	"B" : 90
+                	},
+                "color" : "sn"
+              },
+            "11": 
+              {
+                "enunciado" : "Mantiene una prosodia adecuada",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 70,
+	                	"B" : 80
+                	},
+                "color" : "sn"
+              },
+            "12": 
+              {
+                "enunciado" : "Al hablar presenta fluidez en sus oraciones sin trabarse o bloquearse ",
+                "codigo" : ["D"],
+                "porcentaje" : 
+                	{ 
+	                	"D" : 100
+                	},
+                "color" : "verde"
+              },
+            "13": 
+              {
+                "enunciado" : "Mantiene una conversación fluida sin repetir palabras o frases del que le habla",
+                "codigo" : ["A","B","D"],
+                "porcentaje" : 
+                	{
+	                	"A" : 30,
+	                	"B" : 80,
+	                	"D" : 100
+                	},
+                "color" : "sn"
+              },
+            "14": 
+              {
+                "enunciado" : "Emite frases con dos o tres elementos lingüísticos (sustantivo-verbo-sustantivo)",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 90,
+	                	"B" : 90
+                	},
+                "color" : "sn"
+              },
+            "15": 
+              {
+                "enunciado" : "Utiliza pronombres personales (yo, mío, tuyo)",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 70,
+	                	"B" : 80
+                	},
+                "color" : "sn"
+              },
+            "16": 
+              {
+                "enunciado" : "Usa aproximadamente de 50 a 250 palabras (2 a 2 ½  años)",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "17": 
+              {
+                "enunciado" : "Usa aproximadamente de 300 a 1000 palabras (2 ½ a 3 años)",
+                "codigo" : ["A","B"],
+                "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100
+                	},
+                "color" : "sn"
+              },
+            "18": 
+              {
+                "enunciado" : "Domina la articulación de los fonemas (m-p-b- t- d- k- n)",
+                "codigo" : ["A","B","C"],
+                "porcentaje" : 
+                	{
+	                	"A" : 90,
+	                	"B" : 90,
+	                	"C" : 100
+                	},
+                "color" : "rojo"
+              },
+            "19": 
+              {
+                "enunciado" : "Saca la lengua",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 30
+                	},
+                "color" : "rojo"
+              },
+            "20": 
+              {
+                "enunciado" : "Abre y cierra la boca",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 30
+                	},
+                "color" : "sn"
+              },
+            "21": 
+              {
+                "enunciado" : "Presenta una anatomía de labios normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 80
+                	},
+                "color" : "sn"
+              },
+            "22": 
+              {
+                "enunciado" : "Presenta una anatomía de la lengua normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 90
+                	},
+                "color" : "sn"
+              },
+            "23": 
+              {
+                "enunciado" : "Presenta una anatomía de paladar normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 80
+                	},
+                "color" : "sn"
+              }
+          },
+      
+      "1460":
+          {
+            "1" : 
+                { 
+                  "enunciado" : "Discrimina diferentes sonidos ambientales",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 90 
+                	},
+                  "color" : "amarillo" 
+                },
+            "2" : 
+                { 
+                  "enunciado" : "Realiza ejercicios de memoria auditiva con dos números y palabras",
+                  "codigo" : ["A"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100
+                	},
+                  "color" : "sn"
+                },
+            "3" : 
+                { 
+                  "enunciado" : "Repite frases de cuatro a cinco elementos lingüísticos",
+                  "codigo" : ["A"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100 
+                	},
+                  "color" : "sn"
+                },
+            "4" : 
+                { 
+                  "enunciado" : "Sigue órdenes complejas",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100 
+                	},
+                  "color" : "sn"
+                },
+            "5" : 
+                { 
+                  "enunciado" : "Reconoce nociones de tamaño (grande- pequeño, largo- corto)",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100 
+                	},
+                  "color" : "sn"
+                },
+            "6" : 
+                { 
+                  "enunciado" : "Reconoce nociones de cantidad (mucho- poco)",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100 
+                	},
+                  "color" : "sn"
+                },
+            "7" : 
+                { 
+                  "enunciado" : "Reconoce nociones de espacio (arriba- abajo- dentro- fuera)",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100 
+                	},
+                  "color" : "sn"
+                },
+            "8" : 
+                { 
+                  "enunciado" : "Reconoce nociones temporales (día-noche)",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100 
+                	},
+                  "color" : "sn"
+                },
+            "9" : 
+                { 
+                  "enunciado" : "Reconoce colores primarios (3 años)",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 60,
+	                	"B" : 60 
+                	},
+                  "color" : "sn"
+                },
+            "10" : 
+                { 
+                  "enunciado" : "Reconoce colores secundarios (3 ½  años  )",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 60,
+	                	"B" : 60 
+                	},
+                  "color" : "sn"
+                },
+            "11" : 
+                { 
+                  "enunciado" : "Comprende opuestos",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 60,
+	                	"B" : 70 
+                	},
+                  "color" : "sn"
+                },
+            "12" : 
+                { 
+                  "enunciado" : "Comprende relaciones causa- efecto ",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 80,
+	                	"B" : 80 
+                	},
+                  "color" : "sn"
+                },
+            "13" : 
+                { 
+                  "enunciado" : "Mantiene una prosodia adecuada",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 60,
+	                	"B" : 90 
+                	},
+                  "color" : "sn"
+                },
+            "14" : 
+                { 
+                  "enunciado" : "Presenta fluidez en el habla ",
+                  "codigo" : ["D"],
+                  "porcentaje" : 
+                	{
+	                	"D" : 100 
+                	},
+                  "color" : "verde" 
+                },
+            "15" : 
+                { 
+                  "enunciado" : "Mantiene una conversación fluida sin repetir palabras o frases del que le habla",
+                  "codigo" : ["A","B","D"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 30,
+	                	"B" : 80,
+	                	"D" : 100 
+                	},
+                  "color" : "sn"
+                },
+            "16" : 
+                { 
+                  "enunciado" : "Emite frases con cuatro y cinco elementos lingüísticos",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100 
+                	},
+                  "color" : "sn"
+                },
+            "17" : 
+                { 
+                  "enunciado" : "Usa pronombres personales y posesivos ",
+                  "codigo" : ["B"],
+                  "porcentaje" : 
+                	{ 
+	                	"B" : 80 
+                	},
+                  "color" : "sn"
+                },
+            "18" : 
+                { 
+                  "enunciado" : "Usa del singular y plural",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 80,
+	                	"B" : 80 
+                	},
+                  "color" : "sn"
+                },
+            "19" : 
+                { 
+                  "enunciado" : "Usa de preguntas con qué- dónde y porqué",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 80,
+	                	"B" : 90 
+                	},
+                  "color" : "sn"
+                },
+            "20" : 
+                { 
+                  "enunciado" : "Usa de preposiciones (a, en, para, de) y nexos (pero, porque)",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 80,
+	                	"B" : 80 
+                	},
+                  "color" : "sn"
+                },
+            "21" : 
+                { 
+                  "enunciado" : "Usa de género y número de uso frecuentes",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 80,
+	                	"B" : 90 
+                	},
+                  "color" : "sn"
+                },
+            "22" : 
+                { 
+                  "enunciado" : "Describe como se utilizan los objetos",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 80,
+	                	"B" : 80 
+                	},
+                  "color" : "sn"
+                },
+            "23" : 
+                { 
+                  "enunciado" : "Tiene un vocabulario aproximado de 1500 palabras",
+                  "codigo" : ["A","B","C"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 100,
+	                	"B" : 100 
+                	},
+                  "color" : "sn"
+                },
+            "24" : 
+                { 
+                  "enunciado" : "Domina la articulación de los fonemas (m-p-b- t- d- k- g-j-n-l- y- ll-ch)",
+                  "codigo" : ["A","B","C"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 90,
+	                	"B" : 90,
+	                	"C" : 100
+                	},
+                  "color" : "rojo" 
+                },
+            "25" : 
+                { 
+                  "enunciado" : "Habla y/o se comunica con adultos ",
+                  "codigo" : ["B"],
+                  "porcentaje" : 
+                	{ 
+	                	"B" : 90 
+                	},
+                  "color" : "sn"
+                },
+            "26" : 
+                { 
+                  "enunciado" : "Se comunica con otros niños de manera verbal y/o no verbal",
+                  "codigo" : ["B"],
+                  "porcentaje" : 
+                	{ 
+	                	"B" : 90 
+                	},
+                  "color" : "azul" 
+                },
+            "27" : 
+                { 
+                  "enunciado" : "Saluda y se despide cuando correspondientemente ",
+                  "codigo" : ["A","B"],
+                  "porcentaje" : 
+                	{
+	                	"A" : 80,
+	                	"B" : 90 
+                	},
+                  "color" : "sn"
+                },
+            "28" : 
+                { 
+                  "enunciado" : "Realiza ejercicios conectando los labios (plegar, distender, besar)  ",
+                  "codigo" : ["C"],
+                  "porcentaje" : 
+                	{ 
+	                	"C" : 40
+                	},
+                  "color" : "sn"
+                },
+            "29" : 
+                { 
+                  "enunciado" : "Mueve la lengua de derecha a izquierda",
+                  "codigo" : ["C"],
+                  "porcentaje" : 
+                	{ 
+	                	"C" : 60
+                	},
+                  "color" : "sn"
+                },
+            "30": 
+              {
+                "enunciado" : "Presenta una anatomía de labios normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 80
+                	},
+                "color" : "sn"
+              },
+            "31": 
+              {
+                "enunciado" : "Presenta una anatomía de la lengua normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 90
+                	},
+                "color" : "sn"
+              },
+            "32": 
+              {
+                "enunciado" : "Presenta una anatomía de paladar normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 80
+                	},
+                "color" : "sn"
+              }
+
+          },
+
+      "1825" : 
+	        {
+	            "1" : 
+	              {
+	                 "enunciado" : "Discrimina diferentes sonidos ambientales",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 100,
+			                	"B" : 90 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "2" : 
+	              {
+	                 "enunciado" : "Realiza ejercicios de memoria auditiva con tres y cuatro números y palabras",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 100,
+			                	"B" : 80 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "3" : 
+	              {
+	                 "enunciado" : "Repite frases de seis a ocho elementos lingüísticos",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 100,
+			                	"B" : 100 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "4" : 
+	              {
+	                 "enunciado" : "Imita estructuras rítmicas simples",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 100,
+			                	"B" : 90 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "5" : 
+	              {
+	                 "enunciado" : "Sigue órdenes complejas de tres comandos",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 100,
+			                	"B" : 100 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "6" : 
+	              {
+	                 "enunciado" : "Reconoce nociones de tamaño (grande- pequeño, largo- corto-alto-bajo)",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 80,
+			                	"B" : 80 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "7" : 
+	              {
+	                 "enunciado" : "Reconoce nociones de cantidad (mucho- poco-nada)",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 80,
+			                	"B" : 80 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "8" : 
+	              {
+	                 "enunciado" : "Reconoce nociones de espacio (arriba- abajo- dentro- fuera-cerca-lejos- delante-detrás)",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 80,
+			                	"B" : 80 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "9" : 
+	              {
+	                 "enunciado" : "Reconoce nociones temporales (día-noche-tarde)",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 80,
+			                	"B" : 90 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "10" : 
+	              {
+	                 "enunciado" : "Reconoce colores primarios y secundarios",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 80,
+			                	"B" : 80 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "11" : 
+	              {
+	                 "enunciado" : "Completa analogías",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 80,
+			                	"B" : 80 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "12" : 
+	              {
+	                 "enunciado" : "Responde a preguntas con qué- dónde- cuándo",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 80,
+			                	"B" : 90 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "13" : 
+	              {
+	                 "enunciado" : "Se comunica con adultos de manera verbal y/o no verbal",
+	                  "codigo" : ["B"],
+	                  "porcentaje" : 
+		                	{ 
+			                	"B" : 90 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "14" : 
+	              {
+	                 "enunciado" : "Se comunica con niños de manera verbal y/o no verbal",
+	                  "codigo" : ["B"],
+	                  "porcentaje" : 
+		                	{ 
+			                	"B" : 90 
+		                	},
+	                  "color" : "sn"
+	              },
+	              "15" : 
+	              {
+	                 "enunciado" : "Mantiene una prosodia adecuada",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 80,
+			                	"B" : 90 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "16" : 
+	              {
+	                 "enunciado" : "Emite frases con todos los elementos lingüísticos",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 100,
+			                	"B" : 100 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "17" : 
+	              {
+	                 "enunciado" : "Uso de tiempos verbales (pasado y futuro)",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : [],
+	                  "color" : "sn"
+	              },
+	            "18" : 
+	              {
+	                 "enunciado" : "Responde a preguntas con lógica",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 70,
+			                	"B" : 80 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "19" : 
+	              {
+	                 "enunciado" : "Posee un vocabulario aproximado de 1500 a 2500 palabras",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 100,
+			                	"B" : 100 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "20" : 
+	              {
+	                 "enunciado" : "Domina la articulación de los fonemas (m-p-b- t- d- k-g-j- n-l- y- ll-ch- r-s) sínfones con (l)",
+	                  "codigo" : ["A","B","C"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 90,
+			                	"B" : 90,
+			                	"C" : 100
+		                	},
+	                  "color" : "rojo"
+	              },
+	            "21" : 
+	              {
+	                 "enunciado" : "Presenta fluidez en el habla",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{ 
+			                	"D" : 100 
+		                	},
+	                  "color" : "verde" 
+	              },
+	            "22" : 
+	              {
+	                 "enunciado" : "Mantiene una conversación fluida sin repetir palabras o frases del que le habla  ",
+	                  "codigo" : ["A","B","D"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 20,
+			                	"B" : 80,
+			                	"D" : 100 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "23" : 
+	              {
+	                 "enunciado" : "Repite palabras completas",
+	                  "codigo" : ["A","B"],
+	                  "porcentaje" : 
+		                	{
+			                	"A" : 20,
+			                	"B" : 80,
+			                	"D" : 100 
+		                	},
+	                  "color" : "sn"
+	              },
+	            "24" : 
+	              {
+	                 "enunciado" : "Realiza ejercicios sin conectar los labios (plegar, distender, morder labio superior e inferior)  ",
+	                  "codigo" : ["C"],
+	                  "porcentaje" : 
+	                	{ 
+		                	"C" : 100
+	                	},
+	                  "color" : "sn"
+	              },
+	            "25" : 
+	              {
+	                 "enunciado" : "Coloca el ápice de la lengua detrás de los incisivos superiores",
+	                  "codigo" : ["C"],
+	                  "porcentaje" : 
+	                	{ 
+		                	"C" : 100
+	                	},
+	                  "color" : "sn"
+	              },
+	            "26" : 
+	              {
+	                 "enunciado" : "Infla las mejillas ",
+	                  "codigo" : ["C"],
+	                  "porcentaje" : 
+	                	{ 
+		                	"C" : 70
+	                	},
+	                  "color" : "sn"
+	              },
+	            "27": 
+	              {
+	                "enunciado" : "Presenta una anatomía de labios normal",
+	                "codigo" : ["C"],
+	                "porcentaje" : 
+	                	{ 
+		                	"C" : 80
+	                	},
+	                "color" : "sn"
+	              },
+	            "28": 
+	              {
+	                "enunciado" : "Presenta una anatomía de la lengua normal",
+	                "codigo" : ["C"],
+	                "porcentaje" : 
+	                	{ 
+		                	"C" : 90
+	                	},
+	                "color" : "sn"
+	              },
+	            "29": 
+	              {
+	                "enunciado" : "Presenta una anatomía de paladar normal",
+	                "codigo" : ["C"],
+	                "porcentaje" : 
+	                	{ 
+		                	"C" : 80
+	                	},
+	                "color" : "sn"
+	              }
+	        },
+
+      "2190" : 
+	        {
+	        "1" : 
+	            {
+	              "enunciado" : "Discrimina diferentes sonidos ambientales",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 100,
+		                	"B" : 100 
+	                	},
+	              "color" : "amarillo"
+	            },
+	        "2" : 
+	            {
+	              "enunciado" : "Realiza ejercicios de memoria auditiva con cinco números y palabras",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 100,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "3" : 
+	            {
+	              "enunciado" : "Identifica sonidos iniciales",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 100,
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "4" : 
+	            {
+	              "enunciado" : "Discrimina pares de fonemas consonánticos similares",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "5" : 
+	            {
+	              "enunciado" : "Imita estructuras rítmicas complejas",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 70 
+	                	},
+	              "color" : "sn"
+	            },
+	        "6" : 
+	            {
+	              "enunciado" : "Conoce nociones de cantidad, tamaño, temporo-espacial.",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 60,
+		                	"B" : 60 
+	                	},
+	              "color" : "sn"
+	            },
+	        "7" : 
+	            {
+	              "enunciado" : "Comprende adjetivos",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 70,
+		                	"B" : 70 
+	                	},
+	              "color" : "sn"
+	            },
+	        "8" : 
+	            {
+	              "enunciado" : "Identifica imágenes que no corresponden de una misma categoría",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "9" : 
+	            {
+	              "enunciado" : "Comprende oraciones complejas",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "10" : 
+	            {
+	              "enunciado" : "Repite oraciones complejas",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 90,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "11" : 
+	            {
+	              "enunciado" : "Describe objetos",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 90,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "12" : 
+	            {
+	              "enunciado" : "Responde a  preguntas  hipotéticas",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "13" : 
+	            {
+	              "enunciado" : "Utiliza 2500-4000 palabras",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 100,
+		                	"B" : 100 
+	                	},
+	              "color" : "sn"
+	            },
+	        "14" : 
+	            {
+	              "enunciado" : "Pronuncia todos los sonidos del habla antes de iniciar el proceso lectoescritor",
+	              "codigo" : ["A","B","C"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 90,
+		                	"B" : 90,
+		                	"C" : 100
+	                	},
+	              "color" : "rojo"
+	            },
+	        "15" : 
+	            {
+	              "enunciado" : "Hace preguntas",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "16" : 
+	            {
+	              "enunciado" : "Fundamenta sus respuestas con lógica",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "17" : 
+	            {
+	              "enunciado" : "Utiliza todos los elementos lingüísticos organizadamente para elaborar una oración",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 100,
+		                	"B" : 100 
+	                	},
+	              "color" : "sn"
+	            },
+	        "18" : 
+	            {
+	              "enunciado" : "Se comunica con adultos de manera verbal y/o no verbal",
+	              "codigo" : ["B"],
+	              "porcentaje" : 
+	                	{ 
+		                	"B" : 90 
+	                	},
+	              "color" : "azul"
+	            },
+	        "19" : 
+	            {
+	              "enunciado" : "Se comunica con niños de manera verbal y/o no verbal",
+	              "codigo" : ["B"],
+	              "porcentaje" : 
+	                	{ 
+		                	"B" : 90 
+	                	},
+	              "color" : "azul"
+	            },
+	        "20" : 
+	            {
+	              "enunciado" : "Mantiene una conversación dentro del tema y secuencia",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+                	{
+	                	"A" : 80,
+	                	"B" : 90 
+                	},
+	              "color" : "sn"
+	            },
+	        "21" : 
+	            {
+	              "enunciado" : "Habla con fluidez al compararlo con sus pares sin trabarse o bloquearse.",
+	              "codigo" : ["D"],
+	              "porcentaje" : 
+	                	{ 
+		                	"D" : 100
+	                	},
+	              "color" : "verde"
+	            },
+	        "22" : 
+	            {
+	              "enunciado" : "Mantiene una conversación fluida sin repetir palabras o frases del que le habla  ",
+	              "codigo" : ["A","B","D"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 30,
+		                	"B" : 80,
+		                	"D" : 100 
+	                	},
+	              "color" : "sn"
+	            },
+	        "23" : 
+	            {
+	              "enunciado" : "Mantiene los músculos relajados al entablar conversaciones con otras personas, sin presentar tics motores o parpadeos  ",
+	              "codigo" : ["D"],
+	              "porcentaje" : 
+	                	{ 
+		                	"D" : 100
+	                	},
+	              "color" : "verde"
+	            },
+	        "24" : 
+	            {
+	              "enunciado" : "Presenta una prosodia adecuada",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "25" : 
+	            {
+	              "enunciado" : "Presiona los labios y los distiende ",
+	              "codigo" : ["C"],
+	              "porcentaje" : 
+	                	{ 
+		                	"C" : 80
+	                	},
+	              "color" : "sn"
+	            },
+	        "26" : 
+	            {
+	              "enunciado" : "Realiza ejercicios de chasquido  vibración de la lengua",
+	              "codigo" : ["C"],
+	              "porcentaje" : 
+	                	{ 
+		                	"C" : 100
+	                	},
+	              "color" : "sn"
+	            },
+	        "27": 
+	              {
+	                "enunciado" : "Coloca el ápice de la lengua detrás de los incisivos superiores",
+	                "codigo" : ["C"],
+	                "porcentaje" : 
+	                	{ 
+		                	"C" : 100
+	                	},
+	                "color" : "sn"
+	              },
+	        "28": 
+	              {
+	                "enunciado" : "Infla mejillas",
+	                "codigo" : ["C"],
+	                "porcentaje" : 
+	                	{ 
+		                	"C" : 70
+	                	},
+	                "color" : "sn"
+	              },
+	        "29": 
+              {
+                "enunciado" : "Presenta una anatomía de labios normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 90
+                	},
+                "color" : "sn"
+              },
+	        "30": 
+              {
+                "enunciado" : "Presenta una anatomía de la lengua normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 100
+                	},
+                "color" : "sn"
+              },
+            "31": 
+              {
+                "enunciado" : "Presenta una anatomía del paladar normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 90
+                	},
+                "color" : "sn"
+              }
+	         },
+
+      "2555" : 
+	        {
+	        "1" : 
+	            {
+	              "enunciado" : "Discrimina diferentes sonidos ambientales",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 100,
+		                	"B" : 90 
+	                	},
+	              "color" : "amarillo"
+	            },
+	        "2" : 
+	            {
+	              "enunciado" : "Realiza ejercicios de cierre auditivo",
+	              "codigo" : ["A"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 90
+	                	},
+	              "color" : "sn"
+	            },
+	        "3" : 
+	            {
+	              "enunciado" : "Entiende el concepto del tiempo (último – primero)",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 60,
+		                	"B" : 70 
+	                	},
+	              "color" : "sn"
+	            },
+	        "4" : 
+	            {
+	              "enunciado" : "Corrige absurdos verbales ",
+	              "codigo" : ["B"],
+	              "porcentaje" : 
+	                	{ 
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "5" : 
+	            {
+	              "enunciado" : "Identifica la idea central de una historia y detalles del mismo ",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "6" : 
+	            {
+	              "enunciado" : "Utiliza 14000 palabras (6 años)",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 100,
+		                	"B" : 100 
+	                	},
+	              "color" : "sn"
+	            },
+	        "7" : 
+	            {
+	              "enunciado" : "Hace juicios gramaticales",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "8" : 
+	            {
+	              "enunciado" : "Realiza deducciones",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 70,
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "9" : 
+	            {
+	              "enunciado" : "Construye oraciones partiendo de palabras modelo",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "10" : 
+	            {
+	              "enunciado" : "Elabora historias con secuencia lógica",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "11" : 
+	            {
+	              "enunciado" : "Identifica cantidad (más, igual, falta, sobra, la menor cantidad, vacío)",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "12" : 
+	            {
+	              "enunciado" : "Usa sinónimos",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 70,
+		                	"B" : 70 
+	                	},
+	              "color" : "sn"
+	            },
+	        "13" : 
+	            {
+	              "enunciado" : "Maneja estructruras temporo- espaciales complejas (ayer, hoy, mañana, días de la semana, meses, estaciones del año)",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 70,
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "14" : 
+	            {
+	              "enunciado" : "Elabora rimas",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 60,
+		                	"B" : 60 
+	                	},
+	              "color" : "sn"
+	            },
+	        "15" : 
+	            {
+	              "enunciado" : "Se comunica con adultos de manera verbal y/o no verbal",
+	              "codigo" : ["B"],
+	              "porcentaje" : 
+	                	{ 
+		                	"B" : 90 
+	                	},
+	              "color" : "azul"
+	            },
+	        "16" : 
+	            {
+	              "enunciado" : "Se comunica con niños de manera verbal y/o no verbal",
+	              "codigo" : ["B"],
+	              "porcentaje" : 
+	                	{ 
+		                	"B" : 90 
+	                	},
+	              "color" : "azul"
+	            },
+	        "17" : 
+	            {
+	              "enunciado" : "Mantiene una conversación dentro del tema y secuencia",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 80,
+		                	"B" : 90 
+	                	},
+	              "color" : "sn"
+	            },
+	        "18" : 
+	            {
+	              "enunciado" : "Habla con fluidez al compararlo con sus pares sin trabarse o bloquearse.",
+	              "codigo" : ["D"],
+	              "porcentaje" : 
+                	{ 
+	                	"D" : 100 
+                	},
+	              "color" : "verde"
+	            },
+	        "19" : 
+	            {
+	              "enunciado" : "Mantiene los músculos relajados al entablar conversaciones con otras personas, sin presentar tics motores o parpadeos  ",
+	              "codigo" : ["D"],
+	              "porcentaje" : 
+                	{ 
+	                	"D" : 100 
+                	},
+	              "color" : "verde"
+	            },
+	        "20" : 
+	            {
+	              "enunciado" : "Mantiene una conversación fluida sin repetir palabras o frases del que le habla",
+	              "codigo" : ["A","B","D"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 30,
+		                	"B" : 80,
+		                	"D" : 100
+	                	},
+	              "color" : "sn"
+	            },
+	        "21" : 
+	            {
+	              "enunciado" : "Presenta una prosodia adecuada",
+	              "codigo" : ["A","B"],
+	              "porcentaje" : 
+	                	{
+		                	"A" : 70,
+		                	"B" : 80 
+	                	},
+	              "color" : "sn"
+	            },
+	        "22" : 
+	            {
+	              "enunciado" : "Pronuncia todos los sonidos del habla presentando una inteligibilidad del habla del 100 % ",
+	              "codigo" : ["C"],
+	              "porcentaje" : 
+                	{ 
+	                	"C" : 100
+                	},
+	              "color" : "rojo"
+	            },
+	        "23" : 
+	            {
+	              "enunciado" : "Realiza movimientos articulatorios complejos de labios, lengua, maxilares",
+	              "codigo" : ["C"],
+	              "porcentaje" : 
+                	{ 
+	                	"C" : 100
+                	},
+	              "color" : "sn"
+	            },
+	        "24": 
+              {
+                "enunciado" : "Presenta una anatomía de labios normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 90
+                	},
+                "color" : "sn"
+              },
+	        "25": 
+              {
+                "enunciado" : "Presenta una anatomía de la lengua normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 100
+                	},
+                "color" : "sn"
+              },
+            "26": 
+              {
+                "enunciado" : "Presenta una anatomía del paladar normal",
+                "codigo" : ["C"],
+                "porcentaje" : 
+                	{ 
+	                	"C" : 90
+                	},
+                "color" : "sn"
+              }
+	        }
+    },
+
+"Nino":
+    {
+      "nombre" : "Anderson Llanes",
+      "fNacimiento" : "24/12/2012",
+      "nivel" : 2 
+    },
+
+"Terapeuta" : 
+	{ 
+ 	"user1" :  {
+        "user" : "usuario unk",
+        "pass" : "1234",
+        "nombre" : "Nombre Apellido",
+        "correo" : "correo@mail.com"
+      	}
+	}
+ 
+}
+
+
+
+
+ 
